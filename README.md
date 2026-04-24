@@ -1,7 +1,7 @@
 # HERKLE
 "HERKLE" is a lightweight tool designed for efficient information gathering and the capability to accurately capture precise GPS coordinatescapture exact GPS coordinates
 
-   #WHAT IT CAN DO...
+   #WHAT IT CAN DO
       It can remotely capture the exact GPS coordinates of a target device using a PHP server, and can also list some information about the system of the device. This tool can be a bit helpful in information gathering. 
 
 YOU CAN GET THE FOLLOWING INFORMATION OF THE TARGET DEVICE
