@@ -7,31 +7,31 @@
 
 YOU CAN GET THE FOLLOWING INFORMATION OF THE TARGET DEVICE
     
-    Longitude
-    Latitude
-    Device Model
-    Operating System
-    Number of CPU Cores
-    Screen Resolution
-    User agent
-    Public IP Address
-    Browser Name
-    ISP Information
+ Longitude
+ Latitude
+ Device Model
+ Operating System
+ Number of CPU Cores
+ Screen Resolution
+ User agent
+ Public IP Address
+ Browser Name
+ ISP Information
 
  The tool offers a wide range of features and functionality, including:
     
-    Capture Exact GPS Location
-    Automated Data Collection
-    User-friendly Interface
+ Capture Exact GPS Location
+ Automated Data Collection
+ User-friendly Interface
 
   THIS TOOL IS COMPATIBLE WITH 
     
-    Kali Linux
-    Windows(WSL)
-    Termux
-    MacOS
-    Ubuntu
-    Parrot Sec OS
+ Kali Linux
+ Windows(WSL)
+ Termux
+ MacOS
+ Ubuntu
+ Parrot Sec OS
 
 INSTALLATION STEPS/FOR:Kali Linux&Termux
 
